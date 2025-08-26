@@ -21,6 +21,7 @@
     ![HTML5 Badge](https://img.shields.io/badge/HTML5*-%23E34F26.svg?&logo=html5&logoColor=white&style=flat)
 
 - ## Frameworks
+    ![.NET Badge](https://img.shields.io/badge/dotnet-.net-38096C?logo=dotnet&logoColor=white&style=flat)
     ![Angular Badge](https://img.shields.io/badge/Angular-DD1100?&logo=angular)
     ![Node.js Badge](https://img.shields.io/badge/Node.js*-393?logo=nodedotjs&logoColor=fff&style=flat)
     ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?&logo=laravel&logoColor=white)
@@ -50,6 +51,7 @@
 
 - ## IDEs & Tools
     ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+    ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-38096C?logo=visualstudiocode&logoColor=fff&style=flat)
     ![PyCharm Badge](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat)
     ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat)
     ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
