@@ -57,7 +57,6 @@
     ![PyCharm Badge](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat)
     ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat)
     ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
-    ![Chocolatey Badge](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff&style=flat)
     ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)
     ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
     ![Excel Badge](https://img.shields.io/badge/Microsoft-Excel-darkgreen?logo=excel&logoColor=green&style=flat)
