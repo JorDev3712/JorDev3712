@@ -59,6 +59,8 @@
     ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)
     ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
 
+# <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png" width="25"> <b>Contactarme</b>
+- <a href="https://www.facebook.com/Jor.vg1613">![Facebook](https://img.shields.io/badge/Jordan%20Vasquez-005FED?style=for-the-badge&logo=facebook&logoColor=#0866FF)</a> <a href="https://pe.linkedin.com/in/jordanvg2001">![Linkedin](https://img.shields.io/badge/Jordan%20Vasquez-283272?style=for-the-badge&logo=linkedin&logoColor=#283272)</a> <a href="#">![Discord](https://img.shields.io/badge/JorDev%233712-fff.svg?style=for-the-badge&logo=discord&logoColor=#5865F2)</a>
 <!--
 **JorDev3712/JorDev3712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
