@@ -4,8 +4,10 @@
 <img src="https://raw.githubusercontent.com/JorDev3712/JorDev3712/refs/heads/main/template_github.jpg" />
 
 ## About to me
-- 🌱 Actualmente estoy aprendiendo cursos en Udemy de Ciber seguridad.
-- 🔭 Actualmente estoy trabajando en #FiberPro, como técnico electricista.
+- 🌱 Actualmente estoy aprendiendo cursos de software en Udemy.
+- 🔭 Trabajo en #FiberPro, como técnico electricista.
+- 😄 En mis tiempos libres, escribo código en proyectos personales.
+- 💬 Ask me if you need help with any code.
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
@@ -58,6 +60,9 @@
     ![Chocolatey Badge](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff&style=flat)
     ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)
     ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
+    ![Excel Badge](https://img.shields.io/badge/Microsoft-Excel-darkgreen?logo=excel&logoColor=green&style=flat)
+    ![Word Badge](https://img.shields.io/badge/Microsoft-Word-darkblue?logo=word&logoColor=green&style=flat)
+    ![Drive Badge](https://img.shields.io/badge/Google-Drive-darkgreen?logo=googledrive&logoColor=yellow&style=flat)
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Google_Contacts_logo.png" width="25"> <b>Contactarme</b>
    <a href="https://www.facebook.com/Jor.vg1613" target="_blank">![Facebook](https://img.shields.io/badge/Jordan%20Vasquez-005FED?style=for-the-badge&logo=facebook&logoColor=#0866FF)</a> <a href="https://pe.linkedin.com/in/jordanvg2001" target="_blank">![Linkedin](https://img.shields.io/badge/Linkedin-283272?style=for-the-badge&logo=linkedin&logoColor=#283272)</a> <a href="#">![Discord](https://img.shields.io/badge/JorDev%233712-fff.svg?style=for-the-badge&logo=discord&logoColor=#5865F2)</a>
