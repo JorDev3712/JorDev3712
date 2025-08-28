@@ -17,7 +17,7 @@
     ![Java Badge](https://custom-icon-badges.demolab.com/badge/Java*-ED8B00.svg?logo=java-colorful)
     ![JavaScript Badge](https://img.shields.io/badge/Javascript*-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
     ![TypeScript Badge](https://img.shields.io/badge/TypeScript*-3178C6?logo=typescript&logoColor=fff&style=flat)
-    ![TailwindCSS Badge](https://img.shields.io/badge/TailwindCSS-304CB2?&logo=tailwindcss&logoColor=#06B6D4)
+    ![TailwindCSS Badge](https://img.shields.io/badge/TailwindCSS*-304CB2?&logo=tailwindcss&logoColor=#06B6D4)
     ![CSS3 Badge](https://img.shields.io/badge/CSS3*-%231572B6.svg?&logo=css3&logoColor=white&style=flat)
     ![HTML5 Badge](https://img.shields.io/badge/HTML5*-%23E34F26.svg?&logo=html5&logoColor=white&style=flat)
 
