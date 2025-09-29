@@ -4,9 +4,9 @@
 <img src="https://raw.githubusercontent.com/JorDev3712/JorDev3712/refs/heads/main/template_github.jpg" />
 
 ## About to me
-- 🌱 Actualmente estoy aprendiendo cursos de software en Udemy.
+- 🌱 Actualmente estoy aprendiendo cursos de software en Udemy de Desarrollo de Sotfware.
 - 😄 En mis tiempos libres, escribo código en proyectos personales.
-- 🔭 Estoy en la búsqueda de una oportunidad de trabajo como desarrollador de software.
+- 🔭 Pronto estaré avanzando en mi portafolio web.
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Skills</b>
 
